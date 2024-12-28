@@ -1,4 +1,4 @@
-baseURL: "https://kirn.io/hugo1/"
+baseURL: "https://eicac.github.io"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
