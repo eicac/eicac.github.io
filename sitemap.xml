@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kirn.io/hugo1/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kirn.io/hugo1/news/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kirn.io/hugo1/news/post2/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kirn.io/hugo1/news/post1/</loc>
+    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kirn.io/hugo1/about/</loc>
+  </url><url>
+    <loc>https://kirn.io/hugo1/categories/</loc>
+  </url><url>
+    <loc>https://kirn.io/hugo1/contact/</loc>
+  </url><url>
+    <loc>https://kirn.io/hugo1/tags/</loc>
+  </url>
+</urlset>
