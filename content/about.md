@@ -11,4 +11,4 @@ hideAuthor: true
 
 This is the about page
 
-![Alt text](images/collider2.jpg)
+![Alt text](images/diagram1.jpg)
