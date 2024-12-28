@@ -1,4 +1,4 @@
-baseURL: "https://eicac.github.io/eicac-website/"
+baseURL: "https://eicac.github.io"
 title: ExampleSite
 paginate: 5
 theme: PaperMod

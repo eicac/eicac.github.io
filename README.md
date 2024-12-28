@@ -1,5 +1,5 @@
 
-## eicac-website
+## eicac.github.io (eicac-website)
 
 Before anything else, make sure you have a working version of NodeJS and npm.
 
@@ -9,9 +9,10 @@ Install Hugo (`https://gohugo.io/installation/`). The easiest way on Linux is:
 sudo snap install hugo
 ```
 
-Clone this repository, then do:
+Clone this repository, then run the other commands to install dependencies:
 
 ```
+git clone git@github.com:eicac/eicac.github.io.git eicac-website
 cd eicac-website
 git submodule update --init --recursive
 npm install
