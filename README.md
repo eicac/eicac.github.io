@@ -17,6 +17,11 @@ git submodule update --init --recursive
 npm install
 ```
 
+To pull the latest updates (In case someone else was working on the website):
+```
+git pull
+```
+
 To develop:
 ```
 npm run dev
@@ -43,4 +48,9 @@ To commit and push updates to GitHub (this saves the source code for the website
 git add .
 git commit -m "update website"
 git push
+```
+
+To commit, push, and deploy all in one, use this utility script instead:
+```
+./tools/save-and-deploy.sh
 ```
