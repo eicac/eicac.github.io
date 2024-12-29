@@ -29,7 +29,11 @@ jobs:
       with:
         hugo-version: '0.140.1'  # Use a specific Hugo version if needed
 
-    - name: Build and Deploy
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actions provides this by default
-      run: npm run deploy
+    - name: Build
+      run: npm run build
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
