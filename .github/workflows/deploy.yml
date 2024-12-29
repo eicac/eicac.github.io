@@ -1,0 +1,35 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main  # Adjust this to your default branch
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        submodules: recursive  # Ensures submodules are initialized
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '22.12.0'  # Use an appropriate version of Node.js
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Install Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'v0.140.1'  # Use a specific Hugo version if needed
+
+    - name: Build and Deploy
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub Actions provides this by default
+      run: npm run deploy
