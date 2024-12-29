@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: EICAC
-    subtitle: "This is a description of the project"
+    subtitle: "Electron Ion Collider Accelerator Collaboration"
     imageUrl: images/home-square.png
     imageWidth: 300
     imageHeight: 300
