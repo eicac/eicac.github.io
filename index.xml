@@ -41,5 +41,12 @@
       <guid>https://eicac.github.io/contact/</guid>
       <description>Contact page</description>
     </item>
+    <item>
+      <title>Working Groups</title>
+      <link>https://eicac.github.io/wg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://eicac.github.io/wg/</guid>
+      <description>Working groups</description>
+    </item>
   </channel>
 </rss>
