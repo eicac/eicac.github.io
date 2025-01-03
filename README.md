@@ -7,6 +7,7 @@
 
 Use these instructions if the only website edits you are making are:
 
+- modifying menus and the home page by editing `hugo.yaml`
 - creation of new pages in `content/`
 - addition of static assets like images in `assets/images`
 
