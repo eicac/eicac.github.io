@@ -123,6 +123,10 @@ menu:
       name: Contact
       url: /contact
       weight: 10
+    - identifier: wg
+      name: Working Groups
+      url: /wg
+      weight: 10
     - identifier: news
       name: News
       url: /news
