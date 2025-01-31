@@ -61,6 +61,9 @@ params:
     enabled: true # needs to be explicitly set
     title: EICAC
     subtitle: "Electron Ion Collider Accelerator Collaboration"
+
+test test 
+    
     imageUrl: images/home-square.png
     imageWidth: 300
     imageHeight: 300
@@ -70,8 +73,6 @@ params:
         url: news
   
   math: true
-
-Text text
 
   # # home-info mode
   # homeInfoParams:
