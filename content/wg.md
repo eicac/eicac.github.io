@@ -15,6 +15,5 @@ Welcome to EICAC Working Groups! Here you will find materials and links to pages
 - Second Interaction Region – recruiting group leaders and members
 - Beam Cooling – recruiting group leaders and members
 - FCC-EIC Forum – recruiting group leaders and members
-- [EIC](https://www.bnl.gov/eic/)
 
 ![Alt text](images/diagram1.jpg)
