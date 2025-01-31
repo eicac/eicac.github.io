@@ -17,4 +17,4 @@ Welcome to EICAC Working Groups! Here you will find materials and links to pages
 - FCC-EIC Forum – recruiting group leaders and members
 - [EIC](https://www.bnl.gov/eic/)
 
-<!--![Alt text](images/diagram1.jpg)-->
+![Alt text](images/diagram1.jpg)
