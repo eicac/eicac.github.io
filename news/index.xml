@@ -20,5 +20,12 @@
       <guid>https://eicac.github.io/news/post1/</guid>
       <description>This is the first post description - it appears in search engines and at the top of the page</description>
     </item>
+    <item>
+      <title>EICAC will be launched at IPAC 2024</title>
+      <link>https://eicac.github.io/news/post2/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://eicac.github.io/news/post2/</guid>
+      <description>Electron-Ion Collider Accelerator Collaboration Kicks Off at Premiere Physics Conference</description>
+    </item>
   </channel>
 </rss>
