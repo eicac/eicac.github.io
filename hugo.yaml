@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: EICAC
-    subtitle: "Electron Ion Collider Accelerator Collaboration"  
+    subtitle: "Electron-Ion Collider Accelerator Collaboration"  
     imageUrl: images/home-square.png
     imageWidth: 300
     imageHeight: 300
@@ -71,10 +71,10 @@ params:
   
   math: true
 
-   # home-info mode
-   homeInfoParams:
-     Title: "Hi there \U0001F44B"
-     Content: Welcome to my blog
+  ## home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
 
   # socialIcons:
   #   - name: x
