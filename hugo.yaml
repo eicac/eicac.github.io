@@ -59,12 +59,12 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: EICAC
-    subtitle: "Electron Ion Collider Accelerator Collaboration"  
+    title: EIC Accelerator Collaboration
+    subtitle: "Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration"  
     imageUrl: images/home-square.png
     imageWidth: 300
     imageHeight: 300
-    imageTitle: my image
+    imageTitle: Electron-Ion collisions
     buttons:
       - name: News
         url: news
