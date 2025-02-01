@@ -68,6 +68,8 @@ params:
     buttons:
       - name: News
         url: news
+      - name: About
+        url: about 
   
   math: true
 
