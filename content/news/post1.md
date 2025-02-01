@@ -2,6 +2,7 @@
 author: "John Brown"
 title: "First Post"
 date: "2024-12-25"
+draft: true
 description: "This is the first post description - it appears in search engines and at the top of the page"
 disableShare: true
 ---
