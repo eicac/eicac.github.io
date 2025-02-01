@@ -66,10 +66,14 @@ params:
     imageHeight: 300
     imageTitle: Electron-Ion collisions
     buttons:
-      - name: News
-        url: news
       - name: About
-        url: about 
+        url: about
+      - name: WG
+        url: wg 
+      - name: News
+        url: news 
+      - name: Contact
+        url: contact 
   
   math: true
 
