@@ -4,6 +4,7 @@ title: "Second Post"
 date: "2024-12-27"
 description: "Second post"
 disableShare: true
+draft: true
 ---
 
 This is my second post!
