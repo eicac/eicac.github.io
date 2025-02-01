@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: EIC Accelerator Collaboration
-    subtitle: "Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration Electron Ion Collider Accelerator Collaboration"  
+    subtitle: "Welcome to the EIC Accelerator Collaboration webpage! The EICAC is a growing team, comprising more than twenty institutions around the globe and united by a shared interest in realizing the full potential of the EIC and its future upgrades. On this page, you will find information about the collaboration’s purpose and structure, including details on the Institutional Collaboration Board, Working Groups, and the latest collaboration news."  
     imageUrl: images/home-square.png
     imageWidth: 300
     imageHeight: 300
