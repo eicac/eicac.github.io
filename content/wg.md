@@ -14,7 +14,7 @@ Welcome to the EICAC Working Groups page! Here, you can access materials and lin
 - Polarized Beams & Polarimetry - [Frank Rathmann](mailto:frathmann@bnl.gov) & [Georg Hoffstaetter](mailto:georg.hoffstaetter@cornell.edu) - [WG Indico](https://indico.global/category/1222/)
 - Commissioning Tools - [Yue Hao](mailto:haoyue@msu.edu) and [Jean-Luc Vay](mailto:jlvay@lbl.gov) - [WG Indico](https://indico.global/category/1222/)
 - Second Interaction Region – recruiting group leaders and members
-- Beam Cooling – recruiting group leaders and members
+- High Energy Beam Cooling – recruiting group leaders and members
 - FCC-EIC Forum – recruiting group leaders and members
 - More WGs are coming
 
