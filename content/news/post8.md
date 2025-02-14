@@ -14,6 +14,7 @@ This prestigious appointment recognizes Pieloni's outstanding contributions to a
 “It is an honor to join the EIC project at such a pivotal moment,” said Pieloni. “I look forward to collaborating with colleagues worldwide to push the boundaries of physics and contribute to the success of this innovative project, which will certainly pave the way for even more ambitious research and the development of future accelerators.”
 
 ![Tatiana Pieloni, EPFL](images/tatiana-pieloni.png)
+\ITatiana Pieloni, École Polytechnique Fédérale de Lausanne\i
 
 A renowned expert in beam dynamics and accelerator science, Pieloni has been at the forefront of numerous high-profile projects at CERN and EPFL, driving innovation in particle accelerator technology. 
  
