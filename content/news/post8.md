@@ -29,4 +29,4 @@ The success of this endeavor depends on strong global collaboration. Dr. Pieloni
 “Her expertise and vision will undoubtedly play a crucial role in ensuring the project's success and advancing our understanding of the fundamental forces of nature,” said Seryi.
 
 
-Please see more about EPFL and Tatiana Pielono research [here](https://people.epfl.ch/tatiana.pieloni).
+Please see more about EPFL and Tatiana Pieloni research [here](https://people.epfl.ch/tatiana.pieloni).
