@@ -1,5 +1,5 @@
 ---
-author: "EICAC Team"
+author: "EIC Project Team"
 title: "Tatiana Pieloni Appointed Co-Chair of the EIC Accelerator Collaboration"
 date: "2025-02-06"
 description: "Tatiana Pieloni Appointed Co-Chair of the EIC Accelerator Collaboration"
@@ -12,6 +12,8 @@ Dr. Tatiana Pieloni, École Polytechnique Fédérale de Lausanne (EPFL), has tak
 This prestigious appointment recognizes Pieloni's outstanding contributions to accelerator physics and extensive experience in international scientific collaboration.
 
 “It is an honor to join the EIC project at such a pivotal moment,” said Pieloni. “I look forward to collaborating with colleagues worldwide to push the boundaries of physics and contribute to the success of this innovative project, which will certainly pave the way for even more ambitious research and the development of future accelerators.”
+
+![Tatiana Pieloni, EPFL](images/tatiana-pieloni.png)
 
 A renowned expert in beam dynamics and accelerator science, Pieloni has been at the forefront of numerous high-profile projects at CERN and EPFL, driving innovation in particle accelerator technology. 
  
