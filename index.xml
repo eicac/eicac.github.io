@@ -71,16 +71,23 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>https://unifyingphysics.github.io/contact/</link>
+      <link>https://unifyingphysics.github.io/authors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysics.github.io/contact/</guid>
+      <guid>https://unifyingphysics.github.io/authors/</guid>
       <description>Contact page</description>
     </item>
     <item>
       <title>Working Groups</title>
-      <link>https://unifyingphysics.github.io/wg/</link>
+      <link>https://unifyingphysics.github.io/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysics.github.io/wg/</guid>
+      <guid>https://unifyingphysics.github.io/resources/</guid>
+      <description>Working groups</description>
+    </item>
+    <item>
+      <title>Working Groups</title>
+      <link>https://unifyingphysics.github.io/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://unifyingphysics.github.io/reviews/</guid>
       <description>Working groups</description>
     </item>
   </channel>
