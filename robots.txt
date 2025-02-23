@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://eicac.github.io/sitemap.xml
+Sitemap: https://aseryi.github.io/sitemap.xml
