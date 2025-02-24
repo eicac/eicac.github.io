@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>News on Unifying Physics</title>
-    <link>https://unifyingphysicsweb.github.io/news/</link>
-    <description>Recent content in News on Unifying Physics</description>
+    <title>News on EICAC</title>
+    <link>https://eicac.github.io/news/</link>
+    <description>Recent content in News on EICAC</description>
     <image>
-      <title>Unifying Physics</title>
-      <url>https://unifyingphysicsweb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://unifyingphysicsweb.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>EICAC</title>
+      <url>https://eicac.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://eicac.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://unifyingphysicsweb.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eicac.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tatiana Pieloni Appointed Co-Chair of the EIC Accelerator Collaboration</title>
-      <link>https://unifyingphysicsweb.github.io/news/post8/</link>
+      <link>https://eicac.github.io/news/post8/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post8/</guid>
+      <guid>https://eicac.github.io/news/post8/</guid>
       <description>Tatiana Pieloni Appointed Co-Chair of the EIC Accelerator Collaboration</description>
     </item>
     <item>
       <title>APS DPB Newsletter article - Kicking off the EIC Accelerator Collaboration </title>
-      <link>https://unifyingphysicsweb.github.io/news/post4/</link>
+      <link>https://eicac.github.io/news/post4/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post4/</guid>
+      <guid>https://eicac.github.io/news/post4/</guid>
       <description>APS DPB Newsletter article - Kicking off the EIC Accelerator Collaboration </description>
     </item>
     <item>
       <title>Accelerator Collaboration will play a key role in shaping the EIC</title>
-      <link>https://unifyingphysicsweb.github.io/news/post3/</link>
+      <link>https://eicac.github.io/news/post3/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post3/</guid>
+      <guid>https://eicac.github.io/news/post3/</guid>
       <description>Electron-Ion Collider Accelerator Collaboration will play key role in shaping EIC</description>
     </item>
     <item>
       <title>All Eyes on EIC at IPAC&#39;24 and in Rome as World Partners Gather</title>
-      <link>https://unifyingphysicsweb.github.io/news/post5/</link>
+      <link>https://eicac.github.io/news/post5/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post5/</guid>
+      <guid>https://eicac.github.io/news/post5/</guid>
       <description>All Eyes on EIC at IPAC and in Rome as World Partners Gather Momentum builds towards world&amp;#39;s first fully polarized Electron-Ion Collider</description>
     </item>
     <item>
       <title>EICAC will be launched at IPAC 2024</title>
-      <link>https://unifyingphysicsweb.github.io/news/post2/</link>
+      <link>https://eicac.github.io/news/post2/</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post2/</guid>
+      <guid>https://eicac.github.io/news/post2/</guid>
       <description>Electron-Ion Collider Accelerator Collaboration Kicks Off at Premiere Physics Conference</description>
     </item>
     <item>
       <title>TRIUMF 2021 EIC Accelerator Partnership Workshop</title>
-      <link>https://unifyingphysicsweb.github.io/news/post7/</link>
+      <link>https://eicac.github.io/news/post7/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post7/</guid>
+      <guid>https://eicac.github.io/news/post7/</guid>
       <description>TRIUMF 2021 EIC Accelerator Partnership Workshop</description>
     </item>
     <item>
       <title>EIC Workshop – Promoting Collaboration on the Electron-Ion Collider</title>
-      <link>https://unifyingphysicsweb.github.io/news/post6/</link>
+      <link>https://eicac.github.io/news/post6/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://unifyingphysicsweb.github.io/news/post6/</guid>
+      <guid>https://eicac.github.io/news/post6/</guid>
       <description>EIC Workshop – Promoting Collaboration on the Electron-Ion Collider</description>
     </item>
   </channel>
