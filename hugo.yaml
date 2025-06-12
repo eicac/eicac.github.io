@@ -74,6 +74,8 @@ params:
         url: news 
       - name: Contact
         url: contact 
+      - name: Indico
+        url: "https://indico.global/category/1222/"
       - name: EICUG
         url: "https://eicug.org"
   
