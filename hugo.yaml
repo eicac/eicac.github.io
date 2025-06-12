@@ -74,6 +74,8 @@ params:
         url: news 
       - name: Contact
         url: contact 
+      - name: EICUG
+        url: "https://eicug.org"
   
   math: true
 
