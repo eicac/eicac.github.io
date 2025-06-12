@@ -145,6 +145,10 @@ menu:
       name: EICUG
       url: "https://eicug.org"
       weight: 20
+    - identifier: indico
+      name: Indico
+      url: "https://indico.global/category/1222/"
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
