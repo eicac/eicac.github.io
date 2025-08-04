@@ -2,7 +2,7 @@
 author: "EICAC Team"
 title: "EICAC will meet at NAPAC 2025"
 date: "2025-08-04"
-description: "Electron-Ion Collider Accelerator Collaboration will meet at North American Particle Accelerator Conference"
+description: "Electron-Ion Collider Accelerator Collaboration will meet on August 12 at North American Particle Accelerator Conference - NAPAC 2025"
 disableShare: true
 draft: false
 ---
