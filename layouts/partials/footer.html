@@ -4,6 +4,11 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
+        <!--
+            Note: if the copyright year needs to be changed you simply need to rebuild
+            the website to reflect the current year.
+            Current year: 2026
+        -->
         <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
     {{- end }}
