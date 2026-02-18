@@ -9,10 +9,10 @@ ShowWordCount: false
 hideAuthor: true
 ---
 
-Contact EIC Accelerator Collaboration
+Contact EIC Accelerator Collaboration:
 
-Co-chair of EICAC [Tatiana Pieloni - EPFL](https://people.epfl.ch/tatiana.pieloni) - [tatiana.pieloni@epfl.ch](mailto:tatiana.pieloni@epfl.ch)
+Tatiana Pieloni - [tatiana.pieloni@epfl.ch](mailto:tatiana.pieloni@epfl.ch)
 
-Co-chair of EICAC [Andrei Seryi - Jefferson Lab](https://www.odu.edu/sci/article/odu-physics-professor-to-co-lead-a-collaboration-between-two-national-labs-as-part-of) - [seryi@jlab.org](mailto:seryi@jlab.org)
+Wolfram Fischer - [wfischer@bnl.gov](mailto:wfischer@bnl.gov)
 
 ![Alt text](images/diagram1.jpg)
