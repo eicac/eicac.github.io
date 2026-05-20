@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://eicac.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EICAC will meet at IPAC 2026</title>
+      <link>https://eicac.github.io/news/post13/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://eicac.github.io/news/post13/</guid>
+      <description>Electron-Ion Collider Accelerator Collaboration will meet at International Particle Accelerator Conference</description>
+    </item>
     <item>
       <title>Wolfram Fischer Appointed Co-Chair of the EIC Accelerator Collaboration</title>
       <link>https://eicac.github.io/news/post12/</link>
@@ -26,13 +33,6 @@
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://eicac.github.io/news/post11/</guid>
       <description>Electron-Ion Collider Accelerator Collaboration will meet on August 12 at North American Particle Accelerator Conference - NAPAC 2025</description>
-    </item>
-    <item>
-      <title>EICAC will meet at IPAC 2026</title>
-      <link>https://eicac.github.io/news/post13/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://eicac.github.io/news/post13/</guid>
-      <description>Electron-Ion Collider Accelerator Collaboration will meet at International Particle Accelerator Conference</description>
     </item>
     <item>
       <title>EICAC will meet at IPAC 2025</title>
