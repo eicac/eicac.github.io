@@ -1,7 +1,7 @@
 ---
 author: "EICAC Team"
 title: "EICAC will meet at IPAC 2026"
-date: "2025-05-29"
+date: "2026-05-19"
 description: "Electron-Ion Collider Accelerator Collaboration will meet at International Particle Accelerator Conference"
 disableShare: true
 draft: false
