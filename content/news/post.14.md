@@ -7,6 +7,6 @@ disableShare: true
 draft: false
 ---
 
-The Electron-Ion Collider Accelerator Collaboration created two new Working Groups for EIC-Beam AI and Interaction Regions. 
+The Electron-Ion Collider Accelerator Collaboration created two new Working Groups for EIC-Beam AI and Interaction Regions: 
 https://eicac.org/wg/
 
