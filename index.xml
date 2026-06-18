@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://eicac.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EICAC created two new Working Groups</title>
+      <link>https://eicac.github.io/news/post.14/</link>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://eicac.github.io/news/post.14/</guid>
+      <description>Electron-Ion Collider Accelerator Collaboration created two new Working Groups</description>
+    </item>
     <item>
       <title>EICAC will meet at IPAC 2026</title>
       <link>https://eicac.github.io/news/post13/</link>
@@ -96,13 +103,6 @@
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://eicac.github.io/news/post6/</guid>
       <description>EIC Workshop – Promoting Collaboration on the Electron-Ion Collider</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://eicac.github.io/news/post.14/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eicac.github.io/news/post.14/</guid>
-      <description>&lt;p&gt;12345&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
